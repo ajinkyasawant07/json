@@ -1,0 +1,58 @@
+{
+  "packages": [
+      {
+          "id": 1,
+          "packageName": "Package1",
+          "destination": "XXX",
+          "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+          "date": 18,
+          "month": "December",
+          "days": "5 days 6 nights",
+          "imageUrl": "5641238971",
+          "gallary": [
+              {
+                  "urlPath": "C#"
+              },
+              {
+                  "urlPath": "C#"
+              }
+          ]
+      },
+      {
+        "id": 2,
+        "packageName": "Package2",
+        "destination": "XXX",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "date": 19,
+        "month": "Janewary",
+        "days": "4 days 3 nights",
+        "imageUrl": "5641238971",
+        "gallary": [
+            {
+                "urlPath": "C#"
+            },
+            {
+                "urlPath": "C#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "packageName": "Package3",
+        "destination": "XXX",
+        "description": "Lorem ipsum dolor sit amet, consecter adipisicing elit, sed do eiusmod tempor incididunt.",
+        "date": 19,
+        "month": "December",
+        "days": "4 days 3 nights",
+        "imageUrl": "5641238971",
+        "gallary": [
+            {
+                "urlPath": "C#"
+            },
+            {
+                "urlPath": "C#"
+            }
+        ]
+    }
+  ]
+}
